@@ -68,7 +68,7 @@ ul {
 .navbar {
   font-size: 30px;
   margin-left: 40%;
-  text-align: center;
+  transform: translate(-50%, -50%)
 }
 
 a:link {
