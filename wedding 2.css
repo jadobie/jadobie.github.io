@@ -68,6 +68,7 @@ ul {
 .navbar {
   font-size: 30px;
   margin-left: 40%;
+  text-align: center;
 }
 
 a:link {
